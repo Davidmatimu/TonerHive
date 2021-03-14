@@ -9,12 +9,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4acba1e9-b1a2-4795-a455-6b566b09245d" name="Default Changelist" comment="" />
+    <list default="true" id="4acba1e9-b1a2-4795-a455-6b566b09245d" name="Default Changelist" comment="initial">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" show_ignored="true" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -165,19 +168,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.TonerAlertTest" />
@@ -195,7 +185,6 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="4acba1e9-b1a2-4795-a455-6b566b09245d" name="Default Changelist" comment="" />
-      <changelist id="" name="New changelist" comment="" />
       <created>1550432108813</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -211,7 +200,8 @@
       <workItem from="1614957796526" duration="9776000" />
       <workItem from="1615123563361" duration="11640000" />
       <workItem from="1615685256634" duration="3116000" />
-      <workItem from="1615689896726" duration="1115000" />
+      <workItem from="1615689896726" duration="2231000" />
+      <workItem from="1615735818819" duration="680000" />
     </task>
     <task id="LOCAL-00001" summary="dfghj">
       <created>1550432165046</created>
@@ -295,6 +285,8 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="dfghj" />
     <option name="LAST_COMMIT_MESSAGE" value="dfghj" />
